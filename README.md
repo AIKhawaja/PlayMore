@@ -1,2 +1,3 @@
 # PlayMore
-Check your playlist songs for eligible copyright, to help avoid DMCA strikes on platforms such as Youtube and Twitch
+Allows you to upload your spotify playlist, and check each song for eligible copyright, thus avoiding DMCA strikes on platforms such as Youtube and Twitch
+Created with @fxhassan
