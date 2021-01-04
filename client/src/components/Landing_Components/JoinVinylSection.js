@@ -38,7 +38,7 @@ const popup = typeformEmbed.makePopup("https://hassanrehman1806.typeform.com/to/
 
 
 export default ({
-  subheading = "Interested in Vinyl ?",
+  subheading = "Interested in PlayMore?",
   heading = "Get Early Access",
   primaryLinkText = " Get Early Access",
   pushDownFooter = true
