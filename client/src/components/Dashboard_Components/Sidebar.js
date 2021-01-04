@@ -11,7 +11,7 @@ const Sidebar = () => {
                 <ul tw="flex flex-col w-full  ">
                     <div tw="flex justify-center items-center font-black border-b-0 text-2xl! ml-0! mt-5 mb-10">
                         <Link to="/" tw="font-body text-gray-100">
-                            VINYL
+                            PlayMore
                         </Link>
                     </div>
                     <SidebarOption
